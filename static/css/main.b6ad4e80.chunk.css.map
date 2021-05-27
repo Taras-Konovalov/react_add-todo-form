@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AACA,GACE,eAAgB,CAChB,SACF,CAUA,gCACE,aACF","file":"main.b6ad4e80.chunk.css","sourcesContent":["\nul {\n  list-style: none;\n  padding: 0;\n}\n\n.App__text {\n  display: block;\n}\n\n.App__select {\n  display: block;\n}\n\n.button {\n  display: block;\n}\n"]}
